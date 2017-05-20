@@ -52,3 +52,10 @@ complex problems easily.
   Worked with a number of clients to provide their small businesses with a professional online
   presence.
   
+
+
+ ### Education
+ 
+  Master of Computer Application (2013 - 2016)
+  ### PSG College of Technology, Coimbatore
+ 
