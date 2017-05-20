@@ -57,5 +57,6 @@ complex problems easily.
  ### Education
  
   Master of Computer Application (2013 - 2016)
-  ### PSG College of Technology, Coimbatore
+  PSG College of Technology, Coimbatore
+  CGPA 7.54
  
