@@ -26,7 +26,7 @@ complex problems easily.
 * **[Online IDE](https://github.com/sathasivamr/ProGeeks_IDE)**
   
   Developed Online IDE for the event Progeeks in LOGIN 2015. including [Gowtham Shanmugam](https://github.com/GowthamShanmugam) to develop a
-  beautifully usable product that allows users trying to program according to provided specifications..
+  beautifully usable product that allows users. to program according to provided specifications..
   
   _Built with PHP ,MySQL 
   
