@@ -1,6 +1,6 @@
 # [Sathasivam Rangasamy](mailto:sathartpp@gmail.com)
 
-[GitHub](https://github.com/sathasivamr) | [LinkedIn](http://www.linkedin.com/in/sathasivamr) | [Blog](https://ejholmes.io)
+[GitHub](https://github.com/sathasivamr) | [LinkedIn](http://www.linkedin.com/in/sathasivamr) | [Hackerank](https://www.hackerrank.com/sathasivam?hr_r=1)
 
 
 I'm a passionate full stack developer with extensive experience with both server side and
